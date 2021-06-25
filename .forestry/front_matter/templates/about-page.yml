@@ -25,13 +25,5 @@ fields:
     description: Enter contact email here
   label: contact info
   description: Enter contact info here
-- name: test
-  type: blocks
-  label: test
-  template_types: []
-  config:
-    min: 
-    max: 
-  description: hello
 pages:
 - content/about/info.md
